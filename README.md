@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Saurabh Singh
 **A passionate Full Stack Devloper | React Devloper | Mern Devloper & Devops*
 
-Email Me 👉 ✉️ **saurabh7054singh@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **saurabh7054singh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Expense Tracker
 - 🌱 **I’m currently learning:** Full Stack Devlopment & Devops
